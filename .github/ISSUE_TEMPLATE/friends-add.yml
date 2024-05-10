@@ -1,6 +1,6 @@
 name: 添加友链
 description: 请先阅读自述文件后按照issues模板填写即可添加
-title: "[ADD-FRIENDS]"
+title: "[ADD-FRIENDS]: "
 labels: ["friends:add"]
 assignees: ["FrederickAsYou"]
 body:
