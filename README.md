@@ -46,9 +46,8 @@ Banner头图：https://cdn.jsdelivr.net/gh/FrederickAsYou/upyun-rhimgcdn@img/upl
 2. 在[issues](https://github.com/FrederickAsYou/friends/issues)中新建一个，并选择第一个模板填写
 3. 当你的友链申请通过时，issue将会被close掉并在48小时内出现在我的友链中（若无请邮件联系）
 4. 如果友链在中途发生了不符合上述任一条件，issue将被reopen并由Github进行邮件通知
+5. 如对issues填写有问题可参考 [#1](https://github.com/FrederickAsYou/friends/issues/1)
 
 ---
-
-
 
 ###### &copy; 2024-至今 Frederick Chen. All rights reserved.
