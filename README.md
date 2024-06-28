@@ -29,7 +29,7 @@
 
 - 原创很重要！博客可以长草，但不要滥竽充数，没有实质性内容的博客是不受欢迎的哦~
 - 会提交issues ~~*（否则你咋申请啊哥）*~~ 
-- 最终解释权归 **[@FrederickAsYou](https://github.com/FrederickAsYOu)** 所有。
+- 最终解释权归 **[@磅豆龙](https://github.com/FrederickBun)** 所有。
 
 ### 友链交换流程
 
