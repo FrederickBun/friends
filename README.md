@@ -36,10 +36,10 @@
 1. 请先添加本站（以下内容除必须项以外，其他内容若没有可不填写）
 
 ```Links
-名称（必须）：Frederick Chen（或者OkticaBlog）
-URL（必须）：https://www.ohdragonboi.cn
-图标（头像）：https://cdn.jsdelivr.net/gh/FrederickAsYou/upyun-rhimgcdn@img/upload/%E5%93%88%E5%93%88.jpg
-Banner头图：https://cdn.jsdelivr.net/gh/FrederickAsYou/upyun-rhimgcdn@img/upload/202405092121564.png
+名称（必须）：Buntalk Universe
+URL（必须）：https://www.setbun.com
+图标（头像）：https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406272229074.png
+Banner头图：https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202407021750335.png
 介绍：多试试，总能找到什么（或者无限进步）
 ```
 
