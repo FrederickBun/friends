@@ -1,5 +1,8 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
-  - name: 查看本站友链
-    url: https://www.ohdragonboi.cn/links/
-    about: 在ohdragonboi.cn查看您的友链是否添加
+  - name: 检查友链添加状态
+    url: https://www.setbun.com/links/
+    about: 查看您的友链是否添加
+  - name: 加入友链博主TG群
+    url: https://t.me/setbungroup
+    about: 如果你添加了友链，欢迎加入本群，我们共同《無限進步》！
