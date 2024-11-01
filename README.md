@@ -1,4 +1,4 @@
-# 在 `磅说` 交换友链
+# 在 `磅豆龙 Station` 交换友链
 
 ### 交换前请阅读
 
@@ -35,12 +35,12 @@
 
 1. 请先添加本站（以下内容除必须项以外，其他内容若没有可不填写）
 
-```Links
-名称（必须）：Buntalk Universe
-URL（必须）：https://www.setbun.com
-图标（头像）：https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406272229074.png
-Banner头图：https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202407021750335.png
-介绍：多试试，总能找到什么（或者无限进步）
+```yaml
+名称（必须）: 磅豆龙
+URL（必须）: https://www.setbun.com
+图标（头像）: https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202406272229074.png
+Banner头图: https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/202407021750335.png
+介绍: 世界再大，大不过你我凝视的微笑
 ```
 
 2. 在[issues](https://github.com/FrederickAsYou/friends/issues)中新建一个，并选择第一个模板填写
