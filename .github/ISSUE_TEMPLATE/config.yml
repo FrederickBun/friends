@@ -1,7 +1,7 @@
 blank_issues_enabled: true
 contact_links:
   - name: 检查友链添加状态
-    url: https://www.setbun.com/links/
+    url: https://www.setbun.com/friends
     about: 查看您的友链是否添加
   - name: 加入友链博主TG群
     url: https://t.me/setbungroup
